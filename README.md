@@ -1,5 +1,5 @@
 
- # ![](https://img.shields.io/badge/My_Own_Portfolio_Page-000000?style=for-the-badge&logo=ios&logoColor=white)
+ # ![](https://img.shields.io/badge/My_Own_Portfolio_Page-000000?style=for-the-badge&logo=logoColor=white)
 
 ![](https://img.shields.io/badge/About_Project-02569B?style=for-the-badge&logo=s&logoColor=white)
 
