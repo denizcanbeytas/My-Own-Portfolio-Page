@@ -30,6 +30,9 @@ html{
 section{
     padding: 100px 0;
 }
+.liWtihNoneDot{
+    list-style-type: none;
+}
 .max-width{
     max-width: 1300px;
     padding: 0 80px;
